@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielgruber99
+- 👋 Hi, I’m @danieldagruber
 - 👀 I’m interested in Frontend Developing, C++ Programming. Besides that: Infrastructure topics 
 - 🌱 I’m currently learning C++, more C++ and more C++ (in terms of study)
 - 💞️ I’m looking to collaborate on ...
